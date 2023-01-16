@@ -1,0 +1,46 @@
+
+header{background-image: url(./cc-bg-1.jpg);background-repeat: no-repeat;background-size: cover;height: 650px;}
+th{padding:0px 800px 0px 100px;color:white;font-size: 20px;;}
+p{color :black;text-align:center;font-size: 50px;margin: 0 0 0 0;padding: 10px 0 0 0 ;font-weight: bold}
+td{padding: 10px 10px 10px 10px;text-decoration: none;color:black;font-weight: bold;}
+.b{border-radius: 120px;margin-top: 100px;}
+input{border: 1px solid;padding: 10px 25px 10px 25px ;border-radius:20px;background-color:green;margin: 10px 10px 10px 10px ; }
+  a{text-decoration: none;color:white;}
+  .b1{color: white;}
+  .c{font-size: 18px;font-weight:normal;color: white;}
+  .d{padding: 0px 650px 0 700px;margin-top:40px;align-items: center;}
+  .e{background-color:aliceblue;border-color: aliceblue ;border: 3px groove; font-size: 35px;;margin:80px 50px 150px 200px;padding: 35px 20px 60px 40px;}
+  .e1{font-size: 20px;border: 1px;height: 70px;width: 600px;text-align: left;font-weight: lighter;mar;}
+  .e2{font-size: 20px;text-align: left;font-weight: lighter;padding-top: 10px;}
+  .e3{font-size: 20px;text-align: left;;font-weight:bold;;}
+  .e4{padding-top: 40px;}
+  .f{font-size: 35px;margin-top: 30px;padding: 0px;}
+  .f1{background-color:aliceblue;border-color: aliceblue ;border: 3px groove; font-size: 35px;;margin:40px 40px 150px 200px;padding: 35px 200px 60px 100px ;}
+  .f2{font-size: 20px;text-align: left;;font-weight:bold;word-spacing: 400px;}
+  .f3{margin-left: 820px;}
+  div{display: flex;margin: 10px 100px 10px 300px;}
+  .div1{margin-left: 30px; border: 1px solid;}
+  .div2{margin-left: 30px; border: 1px solid;}
+  .g{background-color:aliceblue;border-color: aliceblue ;border: 3px groove; ;;margin:20px 0px 20px 210px;padding: 20px 20px 20px 50px;}
+  .g1{margin: 10px 20px 10px 20px ;font-size: 30px;;}
+  .g5{border-right: 2px solid;background-color:;}
+  .g6{border-right: 2px solid;background-color:;}
+  .g7{border-right: 2px solid;background-color:;}
+  .g2{margin: 10px 150px 10px 300px;padding-right: 230px;font-size: 30px;}
+  .g3{font-size: 30px;padding-right: 450px;padding-left: 350px;}
+  .g4{font-size: 30px;padding-right: 300px;padding-left: 120px;;}
+  .i{ font-size: 16px;text-align: left;}
+.j{font-size: 16px;}
+.k{background-image: url(./map.jpg);margin: 10px 10px 10px 10px ;padding-bottom: 100px;}
+.h{font-size: 17px;border: 2px solid;margin:100px 100px 100px 540px;padding: 50px 100px 50px 20px;width: 600px;text-align: left;background-color: white;}
+.h1{text-align: right;padding:20px 150px 10px 20px;margin: 0px;font-size: 35px;font-weight: bold;}
+.h2{background-color: white;}
+.h3{padding: 10px 15px 30px 10px;border-radius:0px;border:none;border-bottom: 1px solid;outline: none;background-color: white;}
+.h4{padding: 10px 10px 120px 30px;line-height: 30px;font-weight: lighter;}
+.i{font-weight:bold;}
+.j{font-size: 20px;color: blue;}
+
+
+    
+
+
